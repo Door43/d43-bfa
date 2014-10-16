@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bfa:home|Door43 (bfa)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bfa|d43-bfa repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bfa/archive/master.zip|d43-bfa.zip]]
+
+**Recent Changes**
+{{changes>ns = bfa}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bfa|Ethnologue data]]
+
